@@ -56,8 +56,6 @@ A melhor forma de descobrir com qual área você se identifica é através da **
 ### 5. Considere a demanda e as possibilidades de transição
 É importante saber que as carreiras tech são interconectadas. Um desenvolvedor Python, por exemplo, pode começar no Back-end e depois migrar para **Ciência de Dados** ou **Machine Learning**, áreas que estão em alta demanda em 2026. Escolher uma linguagem com amplo mercado permite que você mude de rumo sem precisar recomeçar do zero.
 
-Gostaria que eu criasse um **relatório detalhado** comparando as responsabilidades, habilidades e salários das principais carreiras citadas nas fontes (como Desenvolvedor Python, Engenheiro de Machine Learning e Analista de Dados) para te ajudar a visualizar melhor as opções?
-
 ## __**O que faz um profissional ser considerado desenvolvedor full stack?**__
 
 Um profissional é considerado **desenvolvedor full stack** quando possui a capacidade de atuar em ambas as pontas do desenvolvimento de software: o **front-end** (a interface visível ao usuário) e o **back-end** (a lógica, os dados e a segurança que rodam por trás da aplicação).
@@ -72,11 +70,11 @@ As principais competências e responsabilidades que definem esse perfil, segundo
 
 Embora esse perfil possua uma visão abrangente, as fontes indicam que se tornar um especialista full stack exige uma trilha de aprendizado longa e profunda. Por isso, a recomendação para quem está iniciando é **focar primeiro em uma das áreas** e, conforme ganhar confiança, expandir os conhecimentos para a outra ponta de forma natural.
 
-## __***Responsabilidades de Python, Machine Learning e Dados.**__
+## __**Responsabilidades de Python, Machine Learning e Dados.**__
 
 Com base nas fontes, as carreiras de **Desenvolvedor Python**, **Engenheiro de Machine Learning** e **Profissional de Dados** (Cientista e Analista) possuem responsabilidades distintas, embora todas utilizem o Python como ferramenta central.
 
-Aqui está uma comparação detalhada das responsabilidades de cada área:
+A seguir uma comparação detalhada das responsabilidades de cada área:
 
 ### 1. Desenvolvedor Python (Foco em Software e Aplicações)
 Este profissional foca na construção e manutenção de sistemas e ferramentas funcionais.
@@ -107,5 +105,3 @@ O foco principal é transformar dados brutos em inteligência de negócio e insi
 | **Uso de Dados** | Armazenar e gerenciar fluxos. | Treinar e validar modelos. | Analisar e encontrar padrões. |
 | **Principais Ferramentas** | Django, Flask, Git, APIs. | TensorFlow, PyTorch, Scikit-learn. | Pandas, NumPy, Matplotlib, SQL. |
 | **Entregável Comum** | Software, ferramentas e APIs. | Modelos de IA em produção. | Relatórios, dashboards e insights. |
-
-Deseja que eu crie **flashcards** para ajudar você a memorizar essas diferenças de responsabilidades ou prefere um **questionário** para testar seus conhecimentos sobre essas carreiras?
