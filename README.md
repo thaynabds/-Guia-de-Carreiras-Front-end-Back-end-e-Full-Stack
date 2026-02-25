@@ -1,4 +1,4 @@
-# -Guia-de-Carreiras-Front-end-Back-end-e-Full-Stack
+# - Guia-de-Carreiras-Front-end-Back-end-e-Full-Stack
 💻 Guia de Carreiras: Front-end, Back-end e Full Stack
 
 O texto apresenta um guia detalhado sobre as principais áreas de atuação no desenvolvimento de software: **Front-end**, **Back-end** e **Full Stack**. O conteúdo explica que o **Front-end** foca na interface visual e na interação direta com o usuário, enquanto o **Back-end** gerencia o processamento de dados e as regras de negócio ocultas. Além disso, a fonte diferencia o trabalho de **design** da programação e aborda o desenvolvimento **Mobile** para sistemas Android e iOS. O perfil **Full Stack** é descrito como o profissional versátil que domina ambas as extremidades do ciclo de desenvolvimento. Por fim, a **Alura** utiliza o artigo para promover suas trilhas de aprendizado, cursos e recursos educacionais voltados à carreira tecnológica.
